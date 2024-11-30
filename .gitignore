@@ -2,6 +2,9 @@
 bin/
 obj/
 
+# 忽略Visual studio專案產生的資料夾
+.vs
+
 # 忽略使用者設定檔
 *.user
 *.suo
