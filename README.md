@@ -1,4 +1,9 @@
 # ValidateExcel
+![Issues](https://img.shields.io/github/issues/AmyChen1108/ValidateExcel)
+![Language](https://img.shields.io/github/languages/top/AmyChen1108/ValidateExcel)
+![License](https://img.shields.io/github/license/AmyChen1108/ValidateExcel)
+![Updated](https://img.shields.io/badge/Last%20Updated-2024--11--30-red)
+![](https://img.shields.io/badge/GitHub-AmyChen1108-blue?logo=github&style=social)
 
 C#.net Console program. Check whether the excel document is a valid file.
 
